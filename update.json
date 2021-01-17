@@ -1,0 +1,25 @@
+{
+    "latest":"1.0.2008",
+    "version":{
+        "1.0.2008":{
+            "link":"https://github.com/Mide-ndlw/MideToolBoxApks/releases/download/v1.0.2007/app-1.0.2008.apk",
+            "proxy":"https://ghproxy.com/https%3A%2F%2Fgithub.com%2FMide-ndlw%2FMideToolBoxApks%2Freleases%2Fdownload%2Fv1.0.1961%2Fapp-1.0.2008.apk",
+            "log":"施工中，该版本为临时版本"
+        },
+        "1.0.2007":{
+            "link":"https://github.com/Mide-ndlw/MideToolBoxApks/releases/download/v1.0.2007/app-1.0.2007.apk",
+            "proxy":"https://ghproxy.com/https%3A%2F%2Fgithub.com%2FMide-ndlw%2FMideToolBoxApks%2Freleases%2Fdownload%2Fv1.0.1961%2Fapp-1.0.2007.apk",
+            "log":"施工中，该版本为临时版本"
+        },
+        "1.0.2000":{
+            "link":"https://github.com/Mide-ndlw/MideToolBoxApks/releases/download/v1.0.2000/app-1.0.2000.apk",
+            "proxy":"https://ghproxy.com/https%3A%2F%2Fgithub.com%2FMide-ndlw%2FMideToolBoxApks%2Freleases%2Fdownload%2Fv1.0.1961%2Fapp-1.0.2000.apk",
+            "log":"施工中，该版本为临时版本"
+        },
+        "1.0.1961":{
+            "link":"https://github.com/Midendlw/MideToolBoxApks/releases/download/v1.0.1961/app-1.0.1961.apk",
+            "proxy":"https://ghproxy.com/https%3A%2F%2Fgithub.com%2FMide-ndlw%2FMideToolBoxApks%2Freleases%2Fdownload%2Fv1.0.1961%2Fapp-1.0.1961.apk",
+            "log":"稳定老版，未优化"
+        }
+    }
+}
